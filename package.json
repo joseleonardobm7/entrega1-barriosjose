@@ -1,0 +1,20 @@
+{
+  "name": "entrega1-barriosjose",
+  "version": "1.0.0",
+  "description": "Primera Entrega, curso de Backend 1 - Autor José Barrios",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
